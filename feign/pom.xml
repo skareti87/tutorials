@@ -141,7 +141,7 @@
         <codehaus-jaxb2-maven-plugin.version>3.1.0</codehaus-jaxb2-maven-plugin.version>
         <jakarta.xml.bind-api.version>4.0.0</jakarta.xml.bind-api.version>
         <jaxb-impl.version>4.0.0</jaxb-impl.version>
-        <feign.version>13.1</feign.version>
+        <feign.version>13.7</feign.version>
         <wsdl4j.version>1.6.3</wsdl4j.version>
         <feign.form.spring.version>3.8.0</feign.form.spring.version>
         <wire.mock.version>2.33.2</wire.mock.version>
